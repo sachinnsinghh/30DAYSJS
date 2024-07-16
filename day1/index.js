@@ -20,7 +20,7 @@ var abc= {
 }
 
 let arr = [1,2,3,4,5];
-
+//typeof tell type of the variable
 console.log(typeof(digits));
 console.log(typeof(str));
 console.log(typeof(boool));
