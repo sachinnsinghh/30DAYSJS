@@ -27,4 +27,4 @@ In this challenge, I solve various JavaScript questions every day to improve my 
 5. **Day 5: Functions**
    - Function declarations and expressions
    - Arrow functions
-   - Higher-order functions and callbac
+   - Higher-order functions 
